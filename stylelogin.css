@@ -1,0 +1,52 @@
+#container
+        {
+            border-style: ridge;
+            box-sizing: border-box;
+            background-color: #f1f1f2;
+            margin-left: 750px;
+            width: 400px;
+            height: auto;
+            top: 100px;
+            align-items: center;
+            padding: 20px;
+            position: fixed;
+        }
+          
+          .bar
+          {
+              font-size: 15px;
+              height: 30px;
+              width: 100%;
+              align-self: auto;
+          }
+          
+          #submit1
+          {
+              
+              border-style:groove;
+              background-color: limegreen;
+              height: 25px;
+              width: 40%;
+              align-content: center;
+              color: white;
+              text-decoration-style:solid;
+              font-family: sans-serif;
+              font-size: 15px;
+              position: absolute;
+          }
+          
+          #submit2
+          {
+              
+              border-style:groove;
+              background-color: limegreen;
+              height: 25px;
+              width: 40%;
+              align-content: center;
+              color: white;
+              text-decoration-style:solid;
+              font-family: sans-serif;
+              font-size: 15px;
+              position: absolute;
+              left: 200px;
+          }
